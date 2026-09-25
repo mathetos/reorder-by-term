@@ -4,6 +4,8 @@ Plugin Name: Reorder by Term
 Plugin URI: https://wordpress.org/plugins/reorder-by-term/
 Description: Reorder Posts by Term
 Version: 1.3.1
+Requires at least: 3.7
+Requires PHP: 7.2
 Author: Ronald Huereca
 Author URI: https://github.com/ronalfy/reorder-by-term
 Text Domain: reorder-by-term
